@@ -4,17 +4,17 @@
 
 [SIGNIFICANCE [1](#SIGNIFICANCE)]
 
-[PROBLEM STATEMENT [1](#PROBLEM STATEMENT)]
+[PROBLEM STATEMENT [2](#PROBLEM STATEMENT)]
 
-[KEY SCIENCE QUESTIONS [1](#KEY SCIENCE QUESTIONS)]
+[KEY SCIENCE QUESTIONS [3](#KEY SCIENCE QUESTIONS)]
 
-[OBJECTIVES AND METHODOLOGY [1](#OBJECTIVES AND METHODOLOGY)]
+[OBJECTIVES AND METHODOLOGY [4](#OBJECTIVES AND METHODOLOGY)]
 
-[EARTH OBSERVATION DATA USED [1](#EARTH OBSERVATION DATA USED)]
+[EARTH OBSERVATION DATA USED [5](#EARTH OBSERVATION DATA USED)]
 
-[CONCLUSION [1](#CONCLUSION)]
+[CONCLUSION [6](#CONCLUSION)]
 
-## SIGNIFICANCE
+# SIGNIFICANCE
 
 The rapid growth of urban settlements, combined with climate change and the urban heat island effect, has increased the risk of extreme heat exposure. In the Indian subcontinent, fast-developing cities have experienced a significant rise in the frequency, intensity, and duration of heatwaves, posing a threat to nearly a billion people who regularly experience temperatures exceeding 100F during summers.
 
