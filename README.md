@@ -1,4 +1,4 @@
-> * This document will go over the LCLUC *
+> *This document will go over the LCLUC*
 
 ## Table of Contents
 
